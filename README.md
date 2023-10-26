@@ -66,3 +66,9 @@ ________________________________________________________________________________
 ![image](https://github.com/skreddypalvai/WxTzkoMxQimJnzBZ/assets/137756791/e388399c-9280-4ba2-9538-779124e4d746)
 
  In this case, I selected an aspiring human resources student from Humber College. The ST model successfully ranked every aspiring human resources student/individual at the top and tend to score low for unmatched ones.
+
+###  **Bonus Suggestions for the Talent Acquisition Team:**
+*  The suggested algorithm uses Sentence-Transformers with pre-trained models to handle tasks related to semantic similarity. This method improves candidate rankings by including positive feedback actions, making the system more robust over time.
+*  To remove irrelevant candidates, you can apply a pre-processing step, which involves setting specific criteria and using similarity score thresholds. 
+*  To strike a balance between inclusivity and precision across various roles, it's essential to establish a universal similarity score cut-off point. 
+*  To avoid human bias, consider exploring techniques such as adversarial debiasing, and maintaining continuous feedback loops with human reviewers. These actions collectively ensure fairness and transparency in the automated candidate ranking process.
