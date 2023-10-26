@@ -58,7 +58,7 @@ The Sentence Transformer model shows high cosine similarity scores for the job t
 _________________________________________________________________________________________________________________
 ![image](https://github.com/skreddypalvai/WxTzkoMxQimJnzBZ/assets/137756791/4e12a495-3081-4110-8b34-3b35baa015cb)
 
-#### Re-Ranking the selected candidates:
+#### Re-Ranking based on the selected candidate:
 Decided to use Sentence - Transformers model as a Rank decider as it will calculate the similarity score of every candidate based on the selected candidate information.
 
 ![image](https://github.com/skreddypalvai/WxTzkoMxQimJnzBZ/assets/137756791/f19b195a-7429-40c4-83b7-0930d2010669)
