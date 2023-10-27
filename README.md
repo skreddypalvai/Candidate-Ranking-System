@@ -44,7 +44,7 @@ ________________________________________________________________________________
 ![image](https://github.com/skreddypalvai/WxTzkoMxQimJnzBZ/assets/137756791/2841c4dc-e64b-4d27-a7c1-f237bc378e26)
  #### BERT:
  
-BERT's similarity score is higher for job titles that match the keywords, and we can see that there are extra words in those job titles. We're certain that BERT embeddings are more advanced than regular word embeddings because they take into account the words around them in a sentence. We also see a high fitness score for the job titles that don't match.
+BERT's similarity score is higher for job titles that match the keywords, and we can see that there are extra words in those job titles. We're certain that BERT embeddings are more advanced than regular word embeddings because they take into account the words around them in a sentence. We also see a high fitness score for the job titles that don't match, But that's not we are looking for.
 
 ![image](https://github.com/skreddypalvai/WxTzkoMxQimJnzBZ/assets/137756791/2f1183a0-0b6c-4fce-a64a-91a0547bc36d)
 _________________________________________________________________________________________________________________
